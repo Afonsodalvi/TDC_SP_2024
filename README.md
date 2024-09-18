@@ -4,6 +4,11 @@ Material referente aos workshops ministrados no TDC 2024 Sao Paulo.
 
 Linkedin: [Afonso Dalvi](https://www.linkedin.com/in/afonso-dalvi-711635112/)
 
+FanTonken deployado: [PolygonScan](https://amoy.polygonscan.com/address/0xbd1b775f7841c77b2cf767839b8f4197742f2f40)
+
+Collection deployado: [PolygonScan](https://amoy.polygonscan.com/address/0xadbbea9629d7836160eae2c5d3b9fdb815e42d85#code)
+
+
 Comandos:
 
 ```javascript

@@ -23,5 +23,8 @@ contract CounterScript is Script {
         collection = new Collection(vm.addr(key), vm.addr(key), vm.addr(key));
 
         vm.stopBroadcast();
+        console.log("address FanToken:", address(fanToken));
+        console.log("address Collection:", address(collection));
+
     }
 }
